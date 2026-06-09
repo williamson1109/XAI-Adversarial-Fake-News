@@ -1,0 +1,15 @@
+transformers==4.38.2
+tokenizers
+datasets
+numpy==1.26.4
+pandas
+scikit-learn
+scipy
+shap
+tqdm
+nltk
+sentencepiece
+nlpaug
+python-Levenshtein
+matplotlib
+playwright
